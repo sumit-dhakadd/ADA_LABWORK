@@ -1,4 +1,3 @@
-
 def strassen(A, B):
     a, b = A[0]
     c, d = A[1]
